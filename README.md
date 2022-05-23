@@ -1,2 +1,2 @@
 # Vehicle-Detector-and-Counter-GUI
-Vehicle Detector and counter using OpenCV, coco list, and Yolov3
+Implemented and designed a GUI that takes an image containing cars, buses, trucks and motorcycles and calssify them as a LMV or HMV
