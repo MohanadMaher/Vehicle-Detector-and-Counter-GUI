@@ -1,5 +1,5 @@
 # Vehicle-Detector-and-Counter-GUI
-Implemented and designed a GUI that takes an image containing cars, buses, trucks and motorcycles and calssify them as a LMV or HMV
+Implemented and designed a GUI that takes an image containing cars, buses, trucks and motorcycles and calssify and count them as a LMV or HMV.  
 
 Below are snippets of the GUI:
 ________________________________
